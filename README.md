@@ -3,5 +3,7 @@
 ### 曹朴 Pu Cao :star2:
 
 :blue_book: BUPT PRIV-Lab
+Email: caopu@bupt.edu.cn
 
-Computer Vision
+Interested in image generation, detection, and visual representation.
+
