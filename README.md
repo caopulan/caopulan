@@ -6,5 +6,5 @@
 
 Email: caopu@bupt.edu.cn
 
-Interested in image generation, detection, and visual representation.
+Interested in visual generation, and multimodal large language models.
 
