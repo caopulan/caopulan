@@ -10,6 +10,9 @@ Website: (pucao.cn)[https://pucao.cn]
 
 Interested in visual generation, and multimodal large language models.
 
+<img src="https://tokenflow.renaissancemind.ai/api/embed/heatmap.svg?days=365&token=tu_api_oVpJDb3nPb49BczgNMgDbySI0kCM4GkPdALOkQuKS7U&metric=tokens&style=apple&variant=compact&view=daily&width=940&height=320" />
+
+
 ----
 ### Research
 
